@@ -9,6 +9,6 @@ public class CrudLeonardogApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CrudLeonardogApplication.class, args);
 	}
-	///..
+	///.
 
 }
